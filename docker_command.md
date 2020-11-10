@@ -45,3 +45,5 @@ Dive into a running conatiner: `docker attach`
 `docker logs [CONATINER_NAME]` : get container logs to debug
 
 `docker -h` : Help command and get more helpful command
+
+[Small exercice](exercice.md)

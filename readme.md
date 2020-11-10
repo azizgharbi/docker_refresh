@@ -10,7 +10,7 @@
 
 ### Container?
 
-A container includes:
+Container includes:
 
 - Code
 - configs
@@ -18,10 +18,10 @@ A container includes:
 - Networking
 - Operating system
 
-- Example of linux Server (container based):
+Example of linux Server (container based):
 
-* Red Hat: Database
-* ubuntu: Webserver
-* Suse linux : redis cache
+- Red Hat: Database
+- ubuntu: Webserver
+- Suse linux : redis cache
 
 [Starting docker](docker_command.md)

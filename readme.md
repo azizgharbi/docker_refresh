@@ -26,4 +26,6 @@ Example of linux Server (container based):
 
 [Starting docker](docker_command.md)
 
-- Docker compose refresh: `https://docs.docker.com/compose/gettingstarted/`
+- Docker compose refresh:
+
+[Dockerizing a python usinf docker compose](https://docs.docker.com/compose/gettingstarted/)

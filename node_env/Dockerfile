@@ -16,4 +16,8 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
-CMD [ "node", "server.js" ]
+CMD [ "node", "app.js" ]
+
+#docker build -t aziz/node_env:v0.1
+
+#docker run -p 8080:8080 aziz/node_env:v0.1

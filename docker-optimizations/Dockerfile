@@ -1,5 +1,4 @@
 # Optimazation with a lower distibution size like aplin
-# the c
 
 FROM ubuntu:16.04 as ubimg
 RUN  apt-get -y update
